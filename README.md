@@ -1,4 +1,4 @@
-### Hi I'm Jesús! 
+### Hi I'm Jesús 👋! 
 
 My name is Jesús Paredes. I am a freelance developer living in Córdoba, Argentina.
 
